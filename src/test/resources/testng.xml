@@ -1,0 +1,10 @@
+<suite name="Youtube Test Suite" verbose="1" thread-count="1">
+    <test name="Youtube Test">
+        <parameter name="url" value="https://www.youtube.com"/>
+        <parameter name="pageTitle" value="YouTube"/>
+        <parameter name="loginBtnText" value="Войти"/>
+        <classes>
+            <class name = "YoutubeTest"/>
+        </classes>
+    </test>
+</suite>

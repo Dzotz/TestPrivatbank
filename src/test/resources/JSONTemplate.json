@@ -1,0 +1,47 @@
+{
+  "name": "Dan",
+  "age": "21",
+  "isMarried": true,
+  "lastJobs": ["Barista","Teacher","QA Automation"],
+  "wife": {
+    "name": "Ulyana",
+    "age": "20",
+    "isMarried": false,
+    "lastJobs": ["Worker"],
+    "wife": null,
+    "children": [
+      {
+      "name": "Vova",
+      "age": "1",
+      "isMarried": false,
+      "lastJobs": [],
+      "wife": null,
+      "children": []
+      },
+      {
+        "name": "Lyosha",
+        "age": "1",
+        "isMarried": false,
+        "lastJobs": [],
+        "wife": null,
+        "children": []
+      }]
+  },
+  "children": [
+    {
+      "name": "Vova",
+      "age": "1",
+      "isMarried": false,
+      "lastJobs": [],
+      "wife": null,
+      "children": []
+    },
+    {
+      "name": "Lyosha",
+      "age": "1",
+      "isMarried": false,
+      "lastJobs": [],
+      "wife": null,
+      "children": []
+    }]
+}
